@@ -1,0 +1,12 @@
+body {
+  height: 100%;
+  background-color: #a9a9a91c;
+}
+.listItem {
+  height: 50px;
+}
+.avatar {
+  height: 30px;
+  width: 30px;
+  border-radius: 10px;
+}

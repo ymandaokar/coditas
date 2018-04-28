@@ -1,0 +1,28 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "flexboxgrid": "^6.3.1",
+    "immutable": "^3.8.2",
+    "react": "16.3.2",
+    "react-collapse": "^4.0.3",
+    "react-dom": "16.3.2",
+    "react-motion": "^0.5.2",
+    "react-scripts": "1.1.4",
+    "react-select": "^1.2.1"
+  },
+  "devDependencies": {
+    "reflux": "^6.4.1",
+    "reflux-core": "^1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
